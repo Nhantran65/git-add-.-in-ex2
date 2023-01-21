@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#mainpage{
+    display:block;
+    color: blueviolet;
+    background-color: aqua;
+}
+#Header{
+    margin-left: auto;
+    margin-right: auto;
+}
+.title{
+    text-align: center;
+    display: inline-block;
+    margin: 30px 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+.title_2{
+    margin: 10px 0;
+}
+#content{
+    margin-left: 20px;
+}
+.text{
+    margin: 15px 0;
+    display: inline-block;
+    font-style: inherit;
+}
+.picture{
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    text-decoration: solid;
+}
+.nhantran{
+    display: inline-block;
+    height: 450px;
+    width: 375px;
+    margin: 10px 10px;
+
+}
